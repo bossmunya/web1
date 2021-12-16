@@ -1,2 +1,1 @@
-# web1
-cybersecurity awareness websystem
+# cybersecurity awareness websystem
